@@ -1,0 +1,16 @@
+{
+    "name": "jungleran/drupal-libraries",
+    "authors": [
+        {
+            "name": "Jungle Ran",
+            "email": "jungle@ranqiangjun.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "composer/satis": "^1.0"
+    },
+    "scripts": {
+        "build": "satis build satis.json docs && echo 'drulibs.com' > docs/CNAME"
+    }
+}

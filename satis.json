@@ -1,0 +1,31 @@
+{
+  "name": "drulibs/drulibs",
+  "homepage": "https://drulibs.com",
+  "repositories": {
+    "enyo/dropzone:5.7.1": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-enyo/dropzone",
+        "version": "5.7.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/enyo/dropzone/archive/v5.7.1.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "zenorocha/clipboard.js:2.0.6": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-zenorocha/clipboard.js",
+        "version": "2.0.6",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/zenorocha/clipboard.js/archive/v2.0.6.zip",
+          "type": "zip"
+        }
+      }
+    }
+  },
+  "require-all": true
+}
