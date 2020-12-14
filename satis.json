@@ -25,6 +25,54 @@
           "type": "zip"
         }
       }
+    },
+    "desandro/masonry:3.3.2": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-desandro/masonry",
+        "version": "3.3.2",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/desandro/masonry/archive/v3.3.2.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "select2/select2:4.0.12": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-select2/select2",
+        "version": "4.0.12",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/select2/select2/archive/4.0.12.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "select2/select2:4.0.13": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-select2/select2",
+        "version": "4.0.13",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/select2/select2/archive/4.0.13.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "fontawesome/fontawesome:5.15.1": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-fontawesome/fontawesome",
+        "version": "5.15.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://use.fontawesome.com/releases/v5.15.1/fontawesome-free-5.15.1-web.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true

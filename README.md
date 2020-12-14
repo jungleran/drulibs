@@ -1,6 +1,6 @@
 # Drupal Libraries -- make easy Drupal libraries management with Composer
 
-This is a custom Composer repository for 3rd party libraries used by Drupal contributed projects
+This is a custom Composer repository built with [satis](https://github.com/composer/satis) for 3rd party libraries used by Drupal contributed projects
 (modules/themes/distributions)
 
 ### How to use?
@@ -49,3 +49,17 @@ or
 ```bash
 composer require drulibs-enyo/dropzone:5.7.1
 ```
+
+However, as you can see, `drulibs-` needs to be prepended to the package/library
+name. That's the naming convention.
+
+### Index
+
+<table>
+    <tr><td>Package/Library</td><th>Version</th><th>Relate Project(s)</th></tr>
+    <tr><td>drulibs-desandro/masonry</td><td>3.3.2</td><td><a href="https://drupal.org/project/content_browser">Content Browser</a></td></tr>
+    <tr><td>drulibs-enyo/dropzone</td><td>5.7.1</td><td><a href="https://drupal.org/project/dropzonejs">DropzoneJS</a></td></tr>
+    <tr><td>drulibs-fontawesome/fontawesome</td><td>5.15.1</td><td><a href="https://drupal.org/project/fontawesome">Font Awesome Icons</a></td></tr>
+    <tr><td>drulibs-select2/select2</td><td>4.0.12, 4.0.13</td><td><a href="https://drupal.org/project/select2">Select2</a></td></tr>
+    <tr><td>drulibs-zenorocha/clipboard.js</td><td>2.0.6</td><td><a href="https://drupal.org/project/clipboardjs">Clipboard.js</a></td></tr>
+</table>
