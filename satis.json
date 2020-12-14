@@ -1,6 +1,7 @@
 {
   "name": "drulibs/drulibs",
   "homepage": "https://drulibs.com",
+  "description": "github.com/drulibs/drulibs",
   "repositories": {
     "enyo/dropzone:5.7.1": {
       "type": "package",
