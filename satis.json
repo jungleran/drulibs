@@ -99,6 +99,18 @@
         }
       }
     },
+    "lucianocosta/jquery.mtz.monthpicker:dev-master": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-lucianocosta/jquery.mtz.monthpicker",
+        "version": "dev-master",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
     "select2/select2:4.0.12": {
       "type": "package",
       "package": {

@@ -92,6 +92,18 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-lucianocosta/jquery.mtz.monthpicker": {
+            "dev-master": {
+                "name": "drulibs-lucianocosta/jquery.mtz.monthpicker",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drulibs-select2/select2": {
             "4.0.12": {
                 "name": "drulibs-select2/select2",

@@ -63,6 +63,7 @@ name. That's the naming convention.
     <tr><td>drulibs-fontawesome/fontawesome</td><td>5.15.1</td><td><a href="https://drupal.org/project/fontawesome">Font Awesome Icons</a></td></tr>
     <tr><td>drulibs-itsjavi/fontawesome-iconpicker</td><td>3.2.0</td><td><a href="https://drupal.org/project/fontawesome_menu_icons">Font Awesome Menu Icons</a></td></tr>
     <tr><td>drulibs-krambuhl/custom-event-polyfill</td><td>1.0.0, 1.0.7</td><td></td></tr>
+    <tr><td>drulibs-lucianocosta/jquery.mtz.monthpicker</td><td>dev-master</td><td><a href="https://drupal.org/project/month_year">Month Year Field</a></td></tr>
     <tr><td>drulibs-select2/select2</td><td>4.0.12, 4.0.13</td><td><a href="https://drupal.org/project/select2">Select2</a></td></tr>
     <tr><td>drulibs-zenorocha/clipboard.js</td><td>2.0.6</td><td><a href="https://drupal.org/project/clipboardjs">Clipboard.js</a></td></tr>
 </table>
