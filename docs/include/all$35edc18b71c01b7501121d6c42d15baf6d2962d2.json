@@ -1,5 +1,27 @@
 {
     "packages": {
+        "drulibs-colorlibhq/adminlte": {
+            "2.4.10": {
+                "name": "drulibs-colorlibhq/adminlte",
+                "version": "2.4.10",
+                "version_normalized": "2.4.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ColorlibHQ/AdminLTE/archive/v2.4.10.zip"
+                },
+                "type": "drupal-library"
+            },
+            "3.0.5": {
+                "name": "drulibs-colorlibhq/adminlte",
+                "version": "3.0.5",
+                "version_normalized": "3.0.5.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/ColorlibHQ/AdminLTE/archive/v3.0.5.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drulibs-desandro/masonry": {
             "3.3.2": {
                 "name": "drulibs-desandro/masonry",
