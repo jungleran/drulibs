@@ -58,9 +58,11 @@ name. That's the naming convention.
 <table>
     <tr><td>Package/Library</td><th>Version</th><th>Relate Project(s)</th></tr>
     <tr><td>drulibs-colorlibhq/adminlte</td><td>2.4.10, 3.0.5</td><td></td></tr>
+    <tr><td>drulibs-d3/d3</td><td>3.5.17</td><td><a href="https://drupal.org/project/devel">Web Profiler</a></td></tr>
     <tr><td>drulibs-desandro/masonry</td><td>3.3.2</td><td><a href="https://drupal.org/project/content_browser">Content Browser</a></td></tr>
     <tr><td>drulibs-enyo/dropzone</td><td>5.7.1</td><td><a href="https://drupal.org/project/dropzonejs">DropzoneJS</a></td></tr>
     <tr><td>drulibs-fontawesome/fontawesome</td><td>5.15.1</td><td><a href="https://drupal.org/project/fontawesome">Font Awesome Icons</a></td></tr>
+    <tr><td>drulibs-highlightjs/highlightjs</td><td>9.7.0</td><td><a href="https://drupal.org/project/devel">Web Profiler</a></td></tr>
     <tr><td>drulibs-itsjavi/fontawesome-iconpicker</td><td>3.2.0</td><td><a href="https://drupal.org/project/fontawesome_menu_icons">Font Awesome Menu Icons</a></td></tr>
     <tr><td>drulibs-krambuhl/custom-event-polyfill</td><td>1.0.0, 1.0.7</td><td></td></tr>
     <tr><td>drulibs-lucianocosta/jquery.mtz.monthpicker</td><td>dev-master</td><td><a href="https://drupal.org/project/month_year">Month Year Field</a></td></tr>

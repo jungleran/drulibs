@@ -22,6 +22,18 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-d3/d3": {
+            "3.5.17": {
+                "name": "drulibs-d3/d3",
+                "version": "3.5.17",
+                "version_normalized": "3.5.17.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/d3/d3/releases/download/v3.5.17/d3.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drulibs-desandro/masonry": {
             "3.3.2": {
                 "name": "drulibs-desandro/masonry",
@@ -54,6 +66,18 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://use.fontawesome.com/releases/v5.15.1/fontawesome-free-5.15.1-web.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-highlightjs/highlightjs": {
+            "9.7.0": {
+                "name": "drulibs-highlightjs/highlightjs",
+                "version": "9.7.0",
+                "version_normalized": "9.7.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/highlightjs/highlight.js/archive/9.7.0.zip"
                 },
                 "type": "drupal-library"
             }
