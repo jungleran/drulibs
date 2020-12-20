@@ -63,6 +63,30 @@
         }
       }
     },
+    "krambuhl/custom-event-polyfill:1.0.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-krambuhl/custom-event-polyfill",
+        "version": "1.0.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/kumarharsh/custom-event-polyfill/archive/v1.0.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "krambuhl/custom-event-polyfill:1.0.7": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-krambuhl/custom-event-polyfill",
+        "version": "1.0.7",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/kumarharsh/custom-event-polyfill/archive/v1.0.7.zip",
+          "type": "zip"
+        }
+      }
+    },
     "select2/select2:4.0.12": {
       "type": "package",
       "package": {
