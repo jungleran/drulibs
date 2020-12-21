@@ -11,6 +11,6 @@
         "composer/satis": "^1.0"
     },
     "scripts": {
-        "build": "satis build satis.json docs && bash post-build.sh"
+        "build": "satis build satis.json docs && php post-build.php"
     }
 }
