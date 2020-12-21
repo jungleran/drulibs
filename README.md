@@ -53,6 +53,10 @@ composer require drulibs-enyo/dropzone:5.7.1
 However, as you can see, `drulibs-` needs to be prepended to the package/library
 name. That's the naming convention.
 
+### How to contribute?
+
+Read the `How it works?` section of the blog post [Drulibs.com: an easier way managing Drupal 3rd-party FE libraries with Composer](https://jungleran.com/drulibs)
+
 ### Index
 
 <table>
