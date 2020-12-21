@@ -3,6 +3,30 @@
   "homepage": "https://drulibs.com",
   "description": "make easy Drupal libraries management with Composer",
   "repositories": {
+    "c3js/c3:0.4.18":  {
+      "type": "package",
+      "package": {
+        "name": "drulibs-c3js/c3",
+        "version": "0.4.18",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/c3js/c3/archive/v0.4.18.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "chartjs/chartjs:2.7.2": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-chartjs/chartjs",
+        "version": "2.7.2",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/chartjs/Chart.js/releases/download/v2.7.2/Chart.bundle.js",
+          "type": "file"
+        }
+      }
+    },
     "colorlibhq/adminlte:2.4.10": {
       "type": "package",
       "package": {
@@ -51,6 +75,30 @@
         }
       }
     },
+    "d3/d3:4.9.1": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-d3/d3",
+        "version": "4.9.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/d3/d3/releases/download/v4.9.1/d3.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "d3/d3v4:4.9.1": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-d3/d3v4",
+        "version": "4.9.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/d3/d3/releases/download/v4.9.1/d3.zip",
+          "type": "zip"
+        }
+      }
+    },
     "enyo/dropzone:5.7.1": {
       "type": "package",
       "package": {
@@ -84,6 +132,108 @@
         "dist": {
           "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip",
           "type": "zip"
+        }
+      }
+    },
+    "google/charts:45": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-google/charts",
+        "version": "45",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "google_charts"
+        },
+        "dist": {
+          "url": "https://www.gstatic.com/charts/loader.js",
+          "type": "file"
+        }
+      }
+    },
+    "highcharts/3d:8.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-highcharts/3d",
+        "version": "8.1.0",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "highcharts_3d"
+        },
+        "dist": {
+          "url": "https://code.highcharts.com/8.1.0/highcharts-3d.js",
+          "type": "file"
+        }
+      }
+    },
+    "highcharts/accessibility:8.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-highcharts/accessibility",
+        "version": "8.1.0",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "highcharts_accessibility"
+        },
+        "dist": {
+          "url": "https://code.highcharts.com/8.1.0/modules/accessibility.js",
+          "type": "file"
+        }
+      }
+    },
+    "highcharts/export-data:8.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-highcharts/export-data",
+        "version": "8.1.0",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "highcharts_export-data"
+        },
+        "dist": {
+          "url": "https://code.highcharts.com/8.1.0/modules/export-data.js",
+          "type": "file"
+        }
+      }
+    },
+    "highcharts/exporting:8.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-highcharts/exporting",
+        "version": "8.1.0",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "highcharts_exporting"
+        },
+        "dist": {
+          "url": "https://code.highcharts.com/8.1.0/modules/exporting.js",
+          "type": "file"
+        }
+      }
+    },
+    "highcharts/highcharts:8.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-highcharts/highcharts",
+        "version": "8.1.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://code.highcharts.com/8.1.0/highcharts.js",
+          "type": "file"
+        }
+      }
+    },
+    "highcharts/more:8.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-highcharts/more",
+        "version": "8.1.0",
+        "type": "drupal-library",
+        "extra": {
+          "installer-name": "highcharts_more"
+        },
+        "dist": {
+          "url": "https://code.highcharts.com/8.1.0/highcharts-more.js",
+          "type": "file"
         }
       }
     },
@@ -191,6 +341,18 @@
         "type": "drupal-library",
         "dist": {
           "url": "https://github.com/mhuggins/jquery-countTo/archive/v1.2.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "naver/billboard.js:1.6.2": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-naver/billboard",
+        "version": "1.6.2",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/naver/billboard.js/archive/1.6.2.zip",
           "type": "zip"
         }
       }

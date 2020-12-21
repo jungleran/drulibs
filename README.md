@@ -79,3 +79,27 @@ Read the `How it works?` section of the blog post [Drulibs.com: an easier way ma
     <tr><td>drulibs-select2/select2</td><td>4.0.12, 4.0.13</td><td><a href="https://drupal.org/project/select2">Select2</a></td></tr>
     <tr><td>drulibs-zenorocha/clipboard.js</td><td>2.0.6</td><td><a href="https://drupal.org/project/clipboardjs">Clipboard.js</a></td></tr>
 </table>
+
+
+#### Chars:5.0.0-alpha2
+
+- charts_billboard:
+
+`composer require drulibs-d3/d3v4:4.9.1 drulibs-naver/billboard:1.6.2`
+
+- charts_c3
+
+`composer require drulibs-c3js/c3:0.4.18 drulibs-d3/d3:3.5.17`
+
+- charts_chartjs
+
+`composer require drulibs-chartjs/chartjs:2.7.2`
+
+- charts_google
+
+`composer require drulibs-google/charts:45`
+
+
+- charts_highcharts
+
+`composer require drulibs-highcharts/3d:8.1.0 drulibs-highcharts/accessibility:8.1.0 drulibs-highcharts/export-data:8.1.0 drulibs-highcharts/exporting:8.1.0 drulibs-highcharts/highcharts:8.1.0 drulibs-highcharts/more:8.1.0`
