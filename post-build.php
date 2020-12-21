@@ -18,7 +18,7 @@ GA;
 
 $footer = <<<DOF
 <p align="center"><a href="https://github.com/drulibs/drulibs">https://github.com/drulibs/drulibs</a></p>
-<p align="center"><a href="https://www.drupal.org/u/jungle">Built by https://www.drupal.org/u/jungle</a></p>
+<p align="center">Built by <a href="https://www.drupal.org/u/jungle">https://www.drupal.org/u/jungle</a></p>
 
 DOF;
 

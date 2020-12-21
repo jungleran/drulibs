@@ -1,7 +1,7 @@
 {
   "name": "drulibs/drulibs",
   "homepage": "https://drulibs.com",
-  "description": "github.com/drulibs/drulibs",
+  "description": "make easy Drupal libraries management with Composer",
   "repositories": {
     "colorlibhq/adminlte:2.4.10": {
       "type": "package",
