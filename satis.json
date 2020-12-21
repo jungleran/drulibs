@@ -75,6 +75,18 @@
         }
       }
     },
+    "furf/jquery-ui-touch-punch:dev-master": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-furf/jquery-ui-touch-punch",
+        "version": "dev-master",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
     "highlightjs/highlightjs:9.7.0": {
       "type": "package",
       "package": {
@@ -87,6 +99,18 @@
         }
       }
     },
+    "imakewebthings/waypoints:4.0.1": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-imakewebthings/waypoints",
+        "version": "4.0.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/imakewebthings/waypoints/archive/4.0.1.zip",
+          "type": "zip"
+        }
+      }
+    },
     "itsjavi/fontawesome-iconpicker:3.2.0": {
       "type": "package",
       "package": {
@@ -95,6 +119,18 @@
         "type": "drupal-library",
         "dist": {
           "url": "https://github.com/itsjavi/fontawesome-iconpicker/archive/3.2.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "jaicab/paraxify.js:0.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-jaicab/paraxify.js",
+        "version": "0.1.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/jaicab/Paraxify.js/archive/v0.1.zip",
           "type": "zip"
         }
       }
@@ -131,6 +167,42 @@
         "type": "drupal-library",
         "dist": {
           "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker/archive/master.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "matthieua/wow.js:1.1.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-matthieua/wow.js",
+        "version": "1.1.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/matthieua/WOW/archive/1.1.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "mhuggins/jquery-countto:1.2.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-mhuggins/jquery-countto",
+        "version": "1.2.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/mhuggins/jquery-countTo/archive/v1.2.0.zip",
+          "type": "zip"
+        }
+      }
+    },
+    "owlcarousel2/owlcarousel2:2.3.4": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-owlcarousel2/owlcarousel2",
+        "version": "2.3.4",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://github.com/OwlCarousel2/OwlCarousel2/archive/2.3.4.zip",
           "type": "zip"
         }
       }

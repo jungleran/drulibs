@@ -70,6 +70,18 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-furf/jquery-ui-touch-punch": {
+            "dev-master": {
+                "name": "drulibs-furf/jquery-ui-touch-punch",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drulibs-highlightjs/highlightjs": {
             "9.7.0": {
                 "name": "drulibs-highlightjs/highlightjs",
@@ -82,6 +94,18 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-imakewebthings/waypoints": {
+            "4.0.1": {
+                "name": "drulibs-imakewebthings/waypoints",
+                "version": "4.0.1",
+                "version_normalized": "4.0.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/imakewebthings/waypoints/archive/4.0.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drulibs-itsjavi/fontawesome-iconpicker": {
             "3.2.0": {
                 "name": "drulibs-itsjavi/fontawesome-iconpicker",
@@ -90,6 +114,18 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/itsjavi/fontawesome-iconpicker/archive/3.2.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-jaicab/paraxify.js": {
+            "0.1.0": {
+                "name": "drulibs-jaicab/paraxify.js",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jaicab/Paraxify.js/archive/v0.1.zip"
                 },
                 "type": "drupal-library"
             }
@@ -124,6 +160,42 @@
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-matthieua/wow.js": {
+            "1.1.0": {
+                "name": "drulibs-matthieua/wow.js",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/matthieua/WOW/archive/1.1.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-mhuggins/jquery-countto": {
+            "1.2.0": {
+                "name": "drulibs-mhuggins/jquery-countto",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/mhuggins/jquery-countTo/archive/v1.2.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-owlcarousel2/owlcarousel2": {
+            "2.3.4": {
+                "name": "drulibs-owlcarousel2/owlcarousel2",
+                "version": "2.3.4",
+                "version_normalized": "2.3.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/OwlCarousel2/OwlCarousel2/archive/2.3.4.zip"
                 },
                 "type": "drupal-library"
             }
