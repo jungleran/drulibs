@@ -71,7 +71,7 @@ Read the `How it works?` section of the blog post [Drulibs.com: an easier way ma
     <tr><td>drulibs-imakewebthings/waypoints</td><td>4.0.1</td><td></td></tr>
     <tr><td>drulibs-itsjavi/fontawesome-iconpicker</td><td>3.2.0</td><td><a href="https://drupal.org/project/fontawesome_menu_icons">Font Awesome Menu Icons</a></td></tr>
     <tr><td>drulibs-jaicab/paraxify.js</td><td>0.1.0</td><td></td></tr>
-    <tr><td>drulibs-krambuhl/custom-event-polyfill</td><td>1.0.0, 1.0.7</td><td></td></tr>
+    <tr><td>drulibs-kumarharsh/custom-event-polyfill</td><td>1.0.0, 1.0.7</td><td></td></tr>
     <tr><td>drulibs-lucianocosta/jquery.mtz.monthpicker</td><td>dev-master</td><td><a href="https://drupal.org/project/month_year">Month Year Field</a></td></tr>
     <tr><td>drulibs-matthieua/wow.js</td><td>1.1.0</td><td></td></tr>
     <tr><td>drulibs-mhuggins/jquery-countto</td><td>1.2.0</td><td></td></tr>

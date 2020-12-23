@@ -285,10 +285,10 @@
         }
       }
     },
-    "krambuhl/custom-event-polyfill:1.0.0": {
+    "kumarharsh/custom-event-polyfill:1.0.0": {
       "type": "package",
       "package": {
-        "name": "drulibs-krambuhl/custom-event-polyfill",
+        "name": "drulibs-kumarharsh/custom-event-polyfill",
         "version": "1.0.0",
         "type": "drupal-library",
         "dist": {
@@ -297,10 +297,10 @@
         }
       }
     },
-    "krambuhl/custom-event-polyfill:1.0.7": {
+    "kumarharsh/custom-event-polyfill:1.0.7": {
       "type": "package",
       "package": {
-        "name": "drulibs-krambuhl/custom-event-polyfill",
+        "name": "drulibs-kumarharsh/custom-event-polyfill",
         "version": "1.0.7",
         "type": "drupal-library",
         "dist": {
