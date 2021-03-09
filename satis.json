@@ -412,8 +412,8 @@
         "version": "3.0.7",
         "type": "drupal-library",
         "dist": {
-          "url": "https://github.com/vuejs/vue-next/archive/v3.0.7.zip",
-          "type": "zip"
+          "url": "https://registry.npmjs.org/vue/-/vue-3.0.7.tgz",
+          "type": "tar"
         }
       }
     },
@@ -424,8 +424,8 @@
         "version": "4.0.0",
         "type": "drupal-library",
         "dist": {
-          "url": "https://github.com/vuejs/vuex/archive/v4.0.0.zip",
-          "type": "zip"
+          "url": "https://registry.npmjs.org/vuex/-/vuex-4.0.0.tgz",
+          "type": "tar"
         }
       }
     },
@@ -436,8 +436,20 @@
         "version": "4.0.4",
         "type": "drupal-library",
         "dist": {
-          "url": "https://github.com/vuejs/vue-router-next/archive/v4.0.4.zip",
-          "type": "zip"
+          "url": "https://registry.npmjs.org/vue-router/-/vue-router-4.0.4.tgz",
+          "type": "tar"
+        }
+      }
+    },
+    "axios/axios:0.21.1": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-axios/axios",
+        "version": "0.21.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://registry.npmjs.org/axios/-/axios-0.21.1.tgz",
+          "type": "tar"
         }
       }
     }
