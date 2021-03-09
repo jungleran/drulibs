@@ -382,6 +382,42 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-vuejs/vue-router": {
+            "4.0.4": {
+                "name": "drulibs-vuejs/vue-router",
+                "version": "4.0.4",
+                "version_normalized": "4.0.4.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/vuejs/vue-router-next/archive/v4.0.4.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-vuejs/vuejs": {
+            "3.0.7": {
+                "name": "drulibs-vuejs/vuejs",
+                "version": "3.0.7",
+                "version_normalized": "3.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/vuejs/vue-next/archive/v3.0.7.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-vuejs/vuex": {
+            "4.0.0": {
+                "name": "drulibs-vuejs/vuex",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/vuejs/vuex/archive/v4.0.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        },
         "drulibs-zenorocha/clipboard.js": {
             "2.0.6": {
                 "name": "drulibs-zenorocha/clipboard.js",
