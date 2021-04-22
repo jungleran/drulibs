@@ -372,6 +372,18 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-quilljs/quill": {
+            "1.0.3": {
+                "name": "drulibs-quilljs/quill",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://github.com/quilljs/quill/releases/download/v1.0.3/quill.tar.gz"
+                },
+                "type": "library"
+            }
+        },
         "drulibs-select2/select2": {
             "4.0.12": {
                 "name": "drulibs-select2/select2",
