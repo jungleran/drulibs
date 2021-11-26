@@ -104,6 +104,18 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-dinbror/blazy": {
+            "1.8.2": {
+                "name": "drulibs-dinbror/blazy",
+                "version": "1.8.2",
+                "version_normalized": "1.8.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/dinbror/blazy/archive/refs/tags/1.8.2.zip"
+                },
+                "type": "library"
+            }
+        },
         "drulibs-enyo/dropzone": {
             "5.7.1": {
                 "name": "drulibs-enyo/dropzone",
@@ -278,6 +290,18 @@
                 "type": "drupal-library"
             }
         },
+        "drulibs-jackmoore/colorbox": {
+            "dev-master": {
+                "name": "drulibs-jackmoore/colorbox",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://github.com/jackmoore/colorbox/archive/master.zip"
+                },
+                "type": "library"
+            }
+        },
         "drulibs-jaicab/paraxify.js": {
             "0.1.0": {
                 "name": "drulibs-jaicab/paraxify.js",
@@ -288,6 +312,18 @@
                     "url": "https://github.com/jaicab/Paraxify.js/archive/v0.1.zip"
                 },
                 "type": "drupal-library"
+            }
+        },
+        "drulibs-kenwheeler/slick": {
+            "1.8.1": {
+                "name": "drulibs-kenwheeler/slick",
+                "version": "1.8.1",
+                "version_normalized": "1.8.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/kenwheeler/slick/archive/refs/tags/v1.8.1.zip"
+                },
+                "type": "library"
             }
         },
         "drulibs-kumarharsh/custom-event-polyfill": {
@@ -370,18 +406,6 @@
                     "url": "https://github.com/OwlCarousel2/OwlCarousel2/archive/2.3.4.zip"
                 },
                 "type": "drupal-library"
-            }
-        },
-        "drulibs-quilljs/quill": {
-            "1.3.7": {
-                "name": "drulibs-quilljs/quill",
-                "version": "1.3.7",
-                "version_normalized": "1.3.7.0",
-                "dist": {
-                    "type": "tar",
-                    "url": "https://github.com/quilljs/quill/releases/download/v1.3.7/quill.tar.gz"
-                },
-                "type": "library"
             }
         },
         "drulibs-select2/select2": {
