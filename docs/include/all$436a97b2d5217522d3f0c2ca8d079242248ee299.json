@@ -113,7 +113,7 @@
                     "type": "zip",
                     "url": "https://github.com/dinbror/blazy/archive/refs/tags/1.8.2.zip"
                 },
-                "type": "library"
+                "type": "drupal-library"
             }
         },
         "drulibs-enyo/dropzone": {
@@ -299,7 +299,7 @@
                     "type": "tar",
                     "url": "https://github.com/jackmoore/colorbox/archive/master.zip"
                 },
-                "type": "library"
+                "type": "drupal-library"
             }
         },
         "drulibs-jaicab/paraxify.js": {
@@ -323,7 +323,7 @@
                     "type": "zip",
                     "url": "https://github.com/kenwheeler/slick/archive/refs/tags/v1.8.1.zip"
                 },
-                "type": "library"
+                "type": "drupal-library"
             }
         },
         "drulibs-kumarharsh/custom-event-polyfill": {

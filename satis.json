@@ -458,6 +458,7 @@
       "package": {
         "name": "drulibs-jackmoore/colorbox",
         "version": "dev-master",
+        "type": "drupal-library",
         "dist": {
           "url": "https://github.com/jackmoore/colorbox/archive/master.zip",
           "type": "tar"
@@ -469,6 +470,7 @@
       "package": {
         "name": "drulibs-dinbror/blazy",
         "version": "1.8.2",
+        "type": "drupal-library",
         "dist": {
           "url": "https://github.com/dinbror/blazy/archive/refs/tags/1.8.2.zip",
           "type": "zip"
@@ -479,6 +481,7 @@
       "type": "package",
       "package": {
         "name": "drulibs-kenwheeler/slick",
+        "type": "drupal-library",
         "version": "1.8.1",
         "dist": {
           "url": "https://github.com/kenwheeler/slick/archive/refs/tags/v1.8.1.zip",
