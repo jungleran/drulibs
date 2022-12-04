@@ -5,7 +5,7 @@
             "sha1": "daef0772be5eb642c9ee202800427c96ecae2f1a"
         }
     },
-    "metadata-url": "/p2/%package%.json",
+    "metadata-url": "/drulibs/p2/%package%.json",
     "available-packages": [
         "drulibs-axios/axios",
         "drulibs-c3js/c3",

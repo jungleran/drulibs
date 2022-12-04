@@ -1,6 +1,6 @@
 {
   "name": "drulibs/drulibs",
-  "homepage": "https://drulibs.com",
+  "homepage": "https://drulibs.github.io/drulibs",
   "description": "make easy Drupal libraries management with Composer",
   "repositories": {
     "c3js/c3:0.4.18":  {
