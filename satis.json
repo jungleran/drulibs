@@ -417,6 +417,18 @@
         }
       }
     },
+    "vuejs/vuejs:3.2.45": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-vuejs/vuejs",
+        "version": "3.2.45",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://registry.npmjs.org/vue/-/vue-3.2.45.tgz",
+          "type": "tar"
+        }
+      }
+    },
     "vuejs/vuex:4.0.0": {
       "type": "package",
       "package": {
