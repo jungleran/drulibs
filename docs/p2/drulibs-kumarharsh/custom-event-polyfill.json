@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "drulibs-kumarharsh/custom-event-polyfill": [
+            {
+                "name": "drulibs-kumarharsh/custom-event-polyfill",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/kumarharsh/custom-event-polyfill/archive/v1.0.0.zip"
+                },
+                "type": "drupal-library"
+            },
+            {
+                "name": "drulibs-kumarharsh/custom-event-polyfill",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/kumarharsh/custom-event-polyfill/archive/v1.0.7.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

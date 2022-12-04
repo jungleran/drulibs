@@ -144,7 +144,7 @@
             "dev-master": {
                 "name": "drulibs-furf/jquery-ui-touch-punch",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip"
@@ -294,7 +294,7 @@
             "dev-master": {
                 "name": "drulibs-jackmoore/colorbox",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/jackmoore/colorbox/archive/master.zip"
@@ -352,7 +352,7 @@
             "dev-master": {
                 "name": "drulibs-lucianocosta/jquery.mtz.monthpicker",
                 "version": "dev-master",
-                "version_normalized": "9999999-dev",
+                "version_normalized": "dev-master",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/lucianocosta/jquery.mtz.monthpicker/archive/master.zip"
@@ -479,6 +479,16 @@
             }
         },
         "drulibs-zenorocha/clipboard.js": {
+            "2.0.10": {
+                "name": "drulibs-zenorocha/clipboard.js",
+                "version": "2.0.10",
+                "version_normalized": "2.0.10.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/zenorocha/clipboard.js/archive/refs/tags/v2.0.10.zip"
+                },
+                "type": "drupal-library"
+            },
             "2.0.6": {
                 "name": "drulibs-zenorocha/clipboard.js",
                 "version": "2.0.6",

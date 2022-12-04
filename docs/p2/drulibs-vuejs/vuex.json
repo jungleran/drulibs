@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "drulibs-vuejs/vuex": [
+            {
+                "name": "drulibs-vuejs/vuex",
+                "version": "4.0.0",
+                "version_normalized": "4.0.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/vuex/-/vuex-4.0.0.tgz"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

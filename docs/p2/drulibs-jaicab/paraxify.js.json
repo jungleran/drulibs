@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "drulibs-jaicab/paraxify.js": [
+            {
+                "name": "drulibs-jaicab/paraxify.js",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/jaicab/Paraxify.js/archive/v0.1.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

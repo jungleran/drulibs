@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "drulibs-chartjs/chartjs": [
+            {
+                "name": "drulibs-chartjs/chartjs",
+                "version": "2.7.2",
+                "version_normalized": "2.7.2.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://github.com/chartjs/Chart.js/releases/download/v2.7.2/Chart.bundle.js"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

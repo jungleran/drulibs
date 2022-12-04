@@ -1,8 +1,47 @@
 {
     "packages": [],
     "includes": {
-        "include/all$b1389bced09ca18ed0c31ffe84cb870613bf14e3.json": {
-            "sha1": "b1389bced09ca18ed0c31ffe84cb870613bf14e3"
+        "include/all$01481bc91ddfab6bc797d8854dc32f722452c41f.json": {
+            "sha1": "01481bc91ddfab6bc797d8854dc32f722452c41f"
         }
-    }
+    },
+    "metadata-url": "/p2/%package%.json",
+    "available-packages": [
+        "drulibs-axios/axios",
+        "drulibs-c3js/c3",
+        "drulibs-chartjs/chartjs",
+        "drulibs-colorlibhq/adminlte",
+        "drulibs-d3/d3",
+        "drulibs-d3/d3v4",
+        "drulibs-desandro/masonry",
+        "drulibs-dinbror/blazy",
+        "drulibs-enyo/dropzone",
+        "drulibs-fontawesome/fontawesome",
+        "drulibs-furf/jquery-ui-touch-punch",
+        "drulibs-google/charts",
+        "drulibs-highcharts/3d",
+        "drulibs-highcharts/accessibility",
+        "drulibs-highcharts/export-data",
+        "drulibs-highcharts/exporting",
+        "drulibs-highcharts/highcharts",
+        "drulibs-highcharts/more",
+        "drulibs-highlightjs/highlightjs",
+        "drulibs-imakewebthings/waypoints",
+        "drulibs-itsjavi/fontawesome-iconpicker",
+        "drulibs-jackmoore/colorbox",
+        "drulibs-jaicab/paraxify.js",
+        "drulibs-kenwheeler/slick",
+        "drulibs-kumarharsh/custom-event-polyfill",
+        "drulibs-lucianocosta/jquery.mtz.monthpicker",
+        "drulibs-matthieua/wow.js",
+        "drulibs-mhuggins/jquery-countto",
+        "drulibs-naver/billboard",
+        "drulibs-owlcarousel2/owlcarousel2",
+        "drulibs-quilljs/quill",
+        "drulibs-select2/select2",
+        "drulibs-vuejs/vue-router",
+        "drulibs-vuejs/vuejs",
+        "drulibs-vuejs/vuex",
+        "drulibs-zenorocha/clipboard.js"
+    ]
 }

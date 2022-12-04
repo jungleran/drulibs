@@ -6,11 +6,15 @@
             "email": "jungle@ranqiangjun.com"
         }
     ],
-    "require": {},
-    "require-dev": {
-        "composer/satis": "^1.0"
+    "require": {
+        "composer/satis": "dev-main"
     },
     "scripts": {
         "build": "satis build satis.json docs"
+    },
+    "config": {
+        "allow-plugins": {
+            "composer/satis": true
+        }
     }
 }

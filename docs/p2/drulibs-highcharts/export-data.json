@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "drulibs-highcharts/export-data": [
+            {
+                "name": "drulibs-highcharts/export-data",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://code.highcharts.com/8.1.0/modules/export-data.js"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "highcharts_export-data"
+                }
+            }
+        ]
+    }
+}
