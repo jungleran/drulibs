@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "d-matthieua/wow.js": [
+            {
+                "name": "d-matthieua/wow.js",
+                "version": "1.1.0",
+                "version_normalized": "1.1.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/matthieua/WOW/archive/1.1.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "d-dinbror/blazy": [
+            {
+                "name": "d-dinbror/blazy",
+                "version": "1.8.2",
+                "version_normalized": "1.8.2.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/dinbror/blazy/archive/refs/tags/1.8.2.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

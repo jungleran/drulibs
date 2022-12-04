@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "d-furf/jquery-ui-touch-punch": [
+            {
+                "name": "d-furf/jquery-ui-touch-punch",
+                "version": "dev-master",
+                "version_normalized": "dev-master",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/furf/jquery-ui-touch-punch/archive/master.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

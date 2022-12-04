@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "d-google/charts": [
+            {
+                "name": "d-google/charts",
+                "version": "45",
+                "version_normalized": "45.0.0.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://www.gstatic.com/charts/loader.js"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "google_charts"
+                }
+            }
+        ]
+    }
+}

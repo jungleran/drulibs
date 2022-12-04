@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "d-highcharts/exporting": [
+            {
+                "name": "d-highcharts/exporting",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://code.highcharts.com/8.1.0/modules/exporting.js"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "highcharts_exporting"
+                }
+            }
+        ]
+    }
+}

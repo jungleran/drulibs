@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "d-d3/d3": [
+            {
+                "name": "d-d3/d3",
+                "version": "3.5.17",
+                "version_normalized": "3.5.17.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/d3/d3/releases/download/v3.5.17/d3.zip"
+                },
+                "type": "drupal-library"
+            },
+            {
+                "name": "d-d3/d3",
+                "version": "4.9.1",
+                "version_normalized": "4.9.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/d3/d3/releases/download/v4.9.1/d3.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

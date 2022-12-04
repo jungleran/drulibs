@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "d-fontawesome/fontawesome": [
+            {
+                "name": "d-fontawesome/fontawesome",
+                "version": "5.15.1",
+                "version_normalized": "5.15.1.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://use.fontawesome.com/releases/v5.15.1/fontawesome-free-5.15.1-web.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

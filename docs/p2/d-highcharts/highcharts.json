@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "d-highcharts/highcharts": [
+            {
+                "name": "d-highcharts/highcharts",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://code.highcharts.com/8.1.0/highcharts.js"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

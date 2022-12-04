@@ -1,0 +1,19 @@
+{
+    "packages": {
+        "d-highcharts/3d": [
+            {
+                "name": "d-highcharts/3d",
+                "version": "8.1.0",
+                "version_normalized": "8.1.0.0",
+                "dist": {
+                    "type": "file",
+                    "url": "https://code.highcharts.com/8.1.0/highcharts-3d.js"
+                },
+                "type": "drupal-library",
+                "extra": {
+                    "installer-name": "highcharts_3d"
+                }
+            }
+        ]
+    }
+}

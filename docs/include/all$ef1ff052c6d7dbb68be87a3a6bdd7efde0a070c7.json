@@ -1,8 +1,8 @@
 {
     "packages": {
-        "drulibs-axios/axios": {
+        "d-axios/axios": {
             "0.21.1": {
-                "name": "drulibs-axios/axios",
+                "name": "d-axios/axios",
                 "version": "0.21.1",
                 "version_normalized": "0.21.1.0",
                 "dist": {
@@ -12,7 +12,7 @@
                 "type": "drupal-library"
             },
             "1.2.0": {
-                "name": "drulibs-axios/axios",
+                "name": "d-axios/axios",
                 "version": "1.2.0",
                 "version_normalized": "1.2.0.0",
                 "dist": {
@@ -22,9 +22,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-c3js/c3": {
+        "d-c3js/c3": {
             "0.4.18": {
-                "name": "drulibs-c3js/c3",
+                "name": "d-c3js/c3",
                 "version": "0.4.18",
                 "version_normalized": "0.4.18.0",
                 "dist": {
@@ -34,9 +34,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-chartjs/chartjs": {
+        "d-chartjs/chartjs": {
             "2.7.2": {
-                "name": "drulibs-chartjs/chartjs",
+                "name": "d-chartjs/chartjs",
                 "version": "2.7.2",
                 "version_normalized": "2.7.2.0",
                 "dist": {
@@ -46,9 +46,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-colorlibhq/adminlte": {
+        "d-colorlibhq/adminlte": {
             "2.4.10": {
-                "name": "drulibs-colorlibhq/adminlte",
+                "name": "d-colorlibhq/adminlte",
                 "version": "2.4.10",
                 "version_normalized": "2.4.10.0",
                 "dist": {
@@ -58,7 +58,7 @@
                 "type": "drupal-library"
             },
             "3.0.5": {
-                "name": "drulibs-colorlibhq/adminlte",
+                "name": "d-colorlibhq/adminlte",
                 "version": "3.0.5",
                 "version_normalized": "3.0.5.0",
                 "dist": {
@@ -68,9 +68,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-d3/d3": {
+        "d-d3/d3": {
             "3.5.17": {
-                "name": "drulibs-d3/d3",
+                "name": "d-d3/d3",
                 "version": "3.5.17",
                 "version_normalized": "3.5.17.0",
                 "dist": {
@@ -80,7 +80,7 @@
                 "type": "drupal-library"
             },
             "4.9.1": {
-                "name": "drulibs-d3/d3",
+                "name": "d-d3/d3",
                 "version": "4.9.1",
                 "version_normalized": "4.9.1.0",
                 "dist": {
@@ -90,9 +90,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-d3/d3v4": {
+        "d-d3/d3v4": {
             "4.9.1": {
-                "name": "drulibs-d3/d3v4",
+                "name": "d-d3/d3v4",
                 "version": "4.9.1",
                 "version_normalized": "4.9.1.0",
                 "dist": {
@@ -102,9 +102,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-desandro/masonry": {
+        "d-desandro/masonry": {
             "3.3.2": {
-                "name": "drulibs-desandro/masonry",
+                "name": "d-desandro/masonry",
                 "version": "3.3.2",
                 "version_normalized": "3.3.2.0",
                 "dist": {
@@ -114,9 +114,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-dinbror/blazy": {
+        "d-dinbror/blazy": {
             "1.8.2": {
-                "name": "drulibs-dinbror/blazy",
+                "name": "d-dinbror/blazy",
                 "version": "1.8.2",
                 "version_normalized": "1.8.2.0",
                 "dist": {
@@ -126,9 +126,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-enyo/dropzone": {
+        "d-enyo/dropzone": {
             "5.7.1": {
-                "name": "drulibs-enyo/dropzone",
+                "name": "d-enyo/dropzone",
                 "version": "5.7.1",
                 "version_normalized": "5.7.1.0",
                 "dist": {
@@ -138,9 +138,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-fontawesome/fontawesome": {
+        "d-fontawesome/fontawesome": {
             "5.15.1": {
-                "name": "drulibs-fontawesome/fontawesome",
+                "name": "d-fontawesome/fontawesome",
                 "version": "5.15.1",
                 "version_normalized": "5.15.1.0",
                 "dist": {
@@ -150,9 +150,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-furf/jquery-ui-touch-punch": {
+        "d-furf/jquery-ui-touch-punch": {
             "dev-master": {
-                "name": "drulibs-furf/jquery-ui-touch-punch",
+                "name": "d-furf/jquery-ui-touch-punch",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "dist": {
@@ -162,9 +162,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-google/charts": {
+        "d-google/charts": {
             "45": {
-                "name": "drulibs-google/charts",
+                "name": "d-google/charts",
                 "version": "45",
                 "version_normalized": "45.0.0.0",
                 "dist": {
@@ -177,9 +177,9 @@
                 }
             }
         },
-        "drulibs-highcharts/3d": {
+        "d-highcharts/3d": {
             "8.1.0": {
-                "name": "drulibs-highcharts/3d",
+                "name": "d-highcharts/3d",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "dist": {
@@ -192,9 +192,9 @@
                 }
             }
         },
-        "drulibs-highcharts/accessibility": {
+        "d-highcharts/accessibility": {
             "8.1.0": {
-                "name": "drulibs-highcharts/accessibility",
+                "name": "d-highcharts/accessibility",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "dist": {
@@ -207,9 +207,9 @@
                 }
             }
         },
-        "drulibs-highcharts/export-data": {
+        "d-highcharts/export-data": {
             "8.1.0": {
-                "name": "drulibs-highcharts/export-data",
+                "name": "d-highcharts/export-data",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "dist": {
@@ -222,9 +222,9 @@
                 }
             }
         },
-        "drulibs-highcharts/exporting": {
+        "d-highcharts/exporting": {
             "8.1.0": {
-                "name": "drulibs-highcharts/exporting",
+                "name": "d-highcharts/exporting",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "dist": {
@@ -237,9 +237,9 @@
                 }
             }
         },
-        "drulibs-highcharts/highcharts": {
+        "d-highcharts/highcharts": {
             "8.1.0": {
-                "name": "drulibs-highcharts/highcharts",
+                "name": "d-highcharts/highcharts",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "dist": {
@@ -249,9 +249,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-highcharts/more": {
+        "d-highcharts/more": {
             "8.1.0": {
-                "name": "drulibs-highcharts/more",
+                "name": "d-highcharts/more",
                 "version": "8.1.0",
                 "version_normalized": "8.1.0.0",
                 "dist": {
@@ -264,9 +264,9 @@
                 }
             }
         },
-        "drulibs-highlightjs/highlightjs": {
+        "d-highlightjs/highlightjs": {
             "9.7.0": {
-                "name": "drulibs-highlightjs/highlightjs",
+                "name": "d-highlightjs/highlightjs",
                 "version": "9.7.0",
                 "version_normalized": "9.7.0.0",
                 "dist": {
@@ -276,9 +276,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-imakewebthings/waypoints": {
+        "d-imakewebthings/waypoints": {
             "4.0.1": {
-                "name": "drulibs-imakewebthings/waypoints",
+                "name": "d-imakewebthings/waypoints",
                 "version": "4.0.1",
                 "version_normalized": "4.0.1.0",
                 "dist": {
@@ -288,9 +288,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-itsjavi/fontawesome-iconpicker": {
+        "d-itsjavi/fontawesome-iconpicker": {
             "3.2.0": {
-                "name": "drulibs-itsjavi/fontawesome-iconpicker",
+                "name": "d-itsjavi/fontawesome-iconpicker",
                 "version": "3.2.0",
                 "version_normalized": "3.2.0.0",
                 "dist": {
@@ -300,9 +300,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-jackmoore/colorbox": {
+        "d-jackmoore/colorbox": {
             "dev-master": {
-                "name": "drulibs-jackmoore/colorbox",
+                "name": "d-jackmoore/colorbox",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "dist": {
@@ -312,9 +312,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-jaicab/paraxify.js": {
+        "d-jaicab/paraxify.js": {
             "0.1.0": {
-                "name": "drulibs-jaicab/paraxify.js",
+                "name": "d-jaicab/paraxify.js",
                 "version": "0.1.0",
                 "version_normalized": "0.1.0.0",
                 "dist": {
@@ -324,9 +324,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-kenwheeler/slick": {
+        "d-kenwheeler/slick": {
             "1.8.1": {
-                "name": "drulibs-kenwheeler/slick",
+                "name": "d-kenwheeler/slick",
                 "version": "1.8.1",
                 "version_normalized": "1.8.1.0",
                 "dist": {
@@ -336,9 +336,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-kumarharsh/custom-event-polyfill": {
+        "d-kumarharsh/custom-event-polyfill": {
             "1.0.0": {
-                "name": "drulibs-kumarharsh/custom-event-polyfill",
+                "name": "d-kumarharsh/custom-event-polyfill",
                 "version": "1.0.0",
                 "version_normalized": "1.0.0.0",
                 "dist": {
@@ -348,7 +348,7 @@
                 "type": "drupal-library"
             },
             "1.0.7": {
-                "name": "drulibs-kumarharsh/custom-event-polyfill",
+                "name": "d-kumarharsh/custom-event-polyfill",
                 "version": "1.0.7",
                 "version_normalized": "1.0.7.0",
                 "dist": {
@@ -358,9 +358,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-lucianocosta/jquery.mtz.monthpicker": {
+        "d-lucianocosta/jquery.mtz.monthpicker": {
             "dev-master": {
-                "name": "drulibs-lucianocosta/jquery.mtz.monthpicker",
+                "name": "d-lucianocosta/jquery.mtz.monthpicker",
                 "version": "dev-master",
                 "version_normalized": "dev-master",
                 "dist": {
@@ -370,9 +370,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-matthieua/wow.js": {
+        "d-matthieua/wow.js": {
             "1.1.0": {
-                "name": "drulibs-matthieua/wow.js",
+                "name": "d-matthieua/wow.js",
                 "version": "1.1.0",
                 "version_normalized": "1.1.0.0",
                 "dist": {
@@ -382,9 +382,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-mhuggins/jquery-countto": {
+        "d-mhuggins/jquery-countto": {
             "1.2.0": {
-                "name": "drulibs-mhuggins/jquery-countto",
+                "name": "d-mhuggins/jquery-countto",
                 "version": "1.2.0",
                 "version_normalized": "1.2.0.0",
                 "dist": {
@@ -394,9 +394,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-naver/billboard": {
+        "d-naver/billboard": {
             "1.6.2": {
-                "name": "drulibs-naver/billboard",
+                "name": "d-naver/billboard",
                 "version": "1.6.2",
                 "version_normalized": "1.6.2.0",
                 "dist": {
@@ -406,9 +406,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-owlcarousel2/owlcarousel2": {
+        "d-owlcarousel2/owlcarousel2": {
             "2.3.4": {
-                "name": "drulibs-owlcarousel2/owlcarousel2",
+                "name": "d-owlcarousel2/owlcarousel2",
                 "version": "2.3.4",
                 "version_normalized": "2.3.4.0",
                 "dist": {
@@ -418,9 +418,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-quilljs/quill": {
+        "d-quilljs/quill": {
             "1.3.7": {
-                "name": "drulibs-quilljs/quill",
+                "name": "d-quilljs/quill",
                 "version": "1.3.7",
                 "version_normalized": "1.3.7.0",
                 "dist": {
@@ -430,9 +430,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-select2/select2": {
+        "d-select2/select2": {
             "4.0.12": {
-                "name": "drulibs-select2/select2",
+                "name": "d-select2/select2",
                 "version": "4.0.12",
                 "version_normalized": "4.0.12.0",
                 "dist": {
@@ -442,7 +442,7 @@
                 "type": "drupal-library"
             },
             "4.0.13": {
-                "name": "drulibs-select2/select2",
+                "name": "d-select2/select2",
                 "version": "4.0.13",
                 "version_normalized": "4.0.13.0",
                 "dist": {
@@ -452,9 +452,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-vue/pettie-vue": {
+        "d-vue/pettie-vue": {
             "0.4.1": {
-                "name": "drulibs-vue/pettie-vue",
+                "name": "d-vue/pettie-vue",
                 "version": "0.4.1",
                 "version_normalized": "0.4.1.0",
                 "dist": {
@@ -464,9 +464,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-vue/vue": {
+        "d-vue/vue": {
             "3.0.7": {
-                "name": "drulibs-vue/vue",
+                "name": "d-vue/vue",
                 "version": "3.0.7",
                 "version_normalized": "3.0.7.0",
                 "dist": {
@@ -476,7 +476,7 @@
                 "type": "drupal-library"
             },
             "3.2.45": {
-                "name": "drulibs-vue/vue",
+                "name": "d-vue/vue",
                 "version": "3.2.45",
                 "version_normalized": "3.2.45.0",
                 "dist": {
@@ -486,9 +486,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-vue/vue-router": {
+        "d-vue/vue-router": {
             "4.0.4": {
-                "name": "drulibs-vue/vue-router",
+                "name": "d-vue/vue-router",
                 "version": "4.0.4",
                 "version_normalized": "4.0.4.0",
                 "dist": {
@@ -498,9 +498,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-vue/vuex": {
+        "d-vue/vuex": {
             "4.0.0": {
-                "name": "drulibs-vue/vuex",
+                "name": "d-vue/vuex",
                 "version": "4.0.0",
                 "version_normalized": "4.0.0.0",
                 "dist": {
@@ -510,9 +510,9 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-zenorocha/clipboard.js": {
+        "d-zenorocha/clipboard.js": {
             "2.0.10": {
-                "name": "drulibs-zenorocha/clipboard.js",
+                "name": "d-zenorocha/clipboard.js",
                 "version": "2.0.10",
                 "version_normalized": "2.0.10.0",
                 "dist": {
@@ -522,7 +522,7 @@
                 "type": "drupal-library"
             },
             "2.0.6": {
-                "name": "drulibs-zenorocha/clipboard.js",
+                "name": "d-zenorocha/clipboard.js",
                 "version": "2.0.6",
                 "version_normalized": "2.0.6.0",
                 "dist": {

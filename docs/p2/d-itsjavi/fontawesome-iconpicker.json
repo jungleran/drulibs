@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "d-itsjavi/fontawesome-iconpicker": [
+            {
+                "name": "d-itsjavi/fontawesome-iconpicker",
+                "version": "3.2.0",
+                "version_normalized": "3.2.0.0",
+                "dist": {
+                    "type": "zip",
+                    "url": "https://github.com/itsjavi/fontawesome-iconpicker/archive/3.2.0.zip"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

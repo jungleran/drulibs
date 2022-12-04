@@ -1,0 +1,26 @@
+{
+    "packages": {
+        "d-vue/vue": [
+            {
+                "name": "d-vue/vue",
+                "version": "3.0.7",
+                "version_normalized": "3.0.7.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/vue/-/vue-3.0.7.tgz"
+                },
+                "type": "drupal-library"
+            },
+            {
+                "name": "d-vue/vue",
+                "version": "3.2.45",
+                "version_normalized": "3.2.45.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/vue/-/vue-3.2.45.tgz"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}
