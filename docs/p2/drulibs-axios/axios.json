@@ -10,6 +10,16 @@
                     "url": "https://registry.npmjs.org/axios/-/axios-0.21.1.tgz"
                 },
                 "type": "drupal-library"
+            },
+            {
+                "name": "drulibs-axios/axios",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/axios/-/axios-1.2.0.tgz"
+                },
+                "type": "drupal-library"
             }
         ]
     }

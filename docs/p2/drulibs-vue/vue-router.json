@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "drulibs-vue/vue-router": [
+            {
+                "name": "drulibs-vue/vue-router",
+                "version": "4.0.4",
+                "version_normalized": "4.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/vue-router/-/vue-router-4.0.4.tgz"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

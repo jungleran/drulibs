@@ -405,10 +405,10 @@
         }
       }
     },
-    "vuejs/vuejs:3.0.7": {
+    "vue/vue:3.0.7": {
       "type": "package",
       "package": {
-        "name": "drulibs-vuejs/vuejs",
+        "name": "drulibs-vue/vue",
         "version": "3.0.7",
         "type": "drupal-library",
         "dist": {
@@ -417,10 +417,10 @@
         }
       }
     },
-    "vuejs/vuejs:3.2.45": {
+    "vue/vue:3.2.45": {
       "type": "package",
       "package": {
-        "name": "drulibs-vuejs/vuejs",
+        "name": "drulibs-vue/vue",
         "version": "3.2.45",
         "type": "drupal-library",
         "dist": {
@@ -429,10 +429,22 @@
         }
       }
     },
-    "vuejs/vuex:4.0.0": {
+    "vue/petite-vue:0.4.1": {
       "type": "package",
       "package": {
-        "name": "drulibs-vuejs/vuex",
+        "name": "drulibs-vue/pettie-vue",
+        "version": "0.4.1",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://registry.npmjs.org/petite-vue/-/petite-vue-0.4.1.tgz",
+          "type": "tar"
+        }
+      }
+    },
+    "vue/vuex:4.0.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-vue/vuex",
         "version": "4.0.0",
         "type": "drupal-library",
         "dist": {
@@ -441,10 +453,10 @@
         }
       }
     },
-    "vuejs/vue-router:4.0.4": {
+    "vue/vue-router:4.0.4": {
       "type": "package",
       "package": {
-        "name": "drulibs-vuejs/vue-router",
+        "name": "drulibs-vue/vue-router",
         "version": "4.0.4",
         "type": "drupal-library",
         "dist": {
@@ -461,6 +473,18 @@
         "type": "drupal-library",
         "dist": {
           "url": "https://registry.npmjs.org/axios/-/axios-0.21.1.tgz",
+          "type": "tar"
+        }
+      }
+    },
+    "axios/axios:1.2.0": {
+      "type": "package",
+      "package": {
+        "name": "drulibs-axios/axios",
+        "version": "1.2.0",
+        "type": "drupal-library",
+        "dist": {
+          "url": "https://registry.npmjs.org/axios/-/axios-1.2.0.tgz",
           "type": "tar"
         }
       }

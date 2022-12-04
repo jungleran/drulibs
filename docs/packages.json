@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$daef0772be5eb642c9ee202800427c96ecae2f1a.json": {
-            "sha1": "daef0772be5eb642c9ee202800427c96ecae2f1a"
+        "include/all$f81dad4d2c031c1ae1e7755f7c45691cb45d5855.json": {
+            "sha1": "f81dad4d2c031c1ae1e7755f7c45691cb45d5855"
         }
     },
     "metadata-url": "/drulibs/p2/%package%.json",
@@ -39,9 +39,10 @@
         "drulibs-owlcarousel2/owlcarousel2",
         "drulibs-quilljs/quill",
         "drulibs-select2/select2",
-        "drulibs-vuejs/vue-router",
-        "drulibs-vuejs/vuejs",
-        "drulibs-vuejs/vuex",
+        "drulibs-vue/pettie-vue",
+        "drulibs-vue/vue",
+        "drulibs-vue/vue-router",
+        "drulibs-vue/vuex",
         "drulibs-zenorocha/clipboard.js"
     ]
 }

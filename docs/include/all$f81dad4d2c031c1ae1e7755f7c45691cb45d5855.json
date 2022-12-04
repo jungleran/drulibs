@@ -10,6 +10,16 @@
                     "url": "https://registry.npmjs.org/axios/-/axios-0.21.1.tgz"
                 },
                 "type": "drupal-library"
+            },
+            "1.2.0": {
+                "name": "drulibs-axios/axios",
+                "version": "1.2.0",
+                "version_normalized": "1.2.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/axios/-/axios-1.2.0.tgz"
+                },
+                "type": "drupal-library"
             }
         },
         "drulibs-c3js/c3": {
@@ -442,21 +452,21 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-vuejs/vue-router": {
-            "4.0.4": {
-                "name": "drulibs-vuejs/vue-router",
-                "version": "4.0.4",
-                "version_normalized": "4.0.4.0",
+        "drulibs-vue/pettie-vue": {
+            "0.4.1": {
+                "name": "drulibs-vue/pettie-vue",
+                "version": "0.4.1",
+                "version_normalized": "0.4.1.0",
                 "dist": {
                     "type": "tar",
-                    "url": "https://registry.npmjs.org/vue-router/-/vue-router-4.0.4.tgz"
+                    "url": "https://registry.npmjs.org/petite-vue/-/petite-vue-0.4.1.tgz"
                 },
                 "type": "drupal-library"
             }
         },
-        "drulibs-vuejs/vuejs": {
+        "drulibs-vue/vue": {
             "3.0.7": {
-                "name": "drulibs-vuejs/vuejs",
+                "name": "drulibs-vue/vue",
                 "version": "3.0.7",
                 "version_normalized": "3.0.7.0",
                 "dist": {
@@ -466,7 +476,7 @@
                 "type": "drupal-library"
             },
             "3.2.45": {
-                "name": "drulibs-vuejs/vuejs",
+                "name": "drulibs-vue/vue",
                 "version": "3.2.45",
                 "version_normalized": "3.2.45.0",
                 "dist": {
@@ -476,9 +486,21 @@
                 "type": "drupal-library"
             }
         },
-        "drulibs-vuejs/vuex": {
+        "drulibs-vue/vue-router": {
+            "4.0.4": {
+                "name": "drulibs-vue/vue-router",
+                "version": "4.0.4",
+                "version_normalized": "4.0.4.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/vue-router/-/vue-router-4.0.4.tgz"
+                },
+                "type": "drupal-library"
+            }
+        },
+        "drulibs-vue/vuex": {
             "4.0.0": {
-                "name": "drulibs-vuejs/vuex",
+                "name": "drulibs-vue/vuex",
                 "version": "4.0.0",
                 "version_normalized": "4.0.0.0",
                 "dist": {
