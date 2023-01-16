@@ -10,7 +10,7 @@ Add the following lines to your project's root `composer.json` file
 {
   "repositories": [{
     "type": "composer",
-    "url": "drulibs.github.io/drulibs"
+    "url": "https://drulibs.github.io/drulibs"
   }]
 }
 ```
@@ -28,7 +28,7 @@ After adding the above lines, your root `composer.json` file may look like:
         },
         {
             "type": "composer",
-            "url": "drulibs.github.io/drulibs"
+            "url": "https://drulibs.github.io/drulibs"
         }
     ],
     "require": {
