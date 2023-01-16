@@ -548,6 +548,18 @@
           "type": "zip"
         }
       }
+    },
+    "apvarun/toastify-js:1.12.0": {
+      "type": "package",
+      "package": {
+        "name": "d-apvarun/toastify",
+        "type": "drupal-library",
+        "version": "1.12.0",
+        "dist": {
+          "url": "https://github.com/apvarun/toastify-js/archive/refs/tags/1.12.0.zip",
+          "type": "zip"
+        }
+      }
     }
   },
   "require-all": true

@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$ef1ff052c6d7dbb68be87a3a6bdd7efde0a070c7.json": {
-            "sha1": "ef1ff052c6d7dbb68be87a3a6bdd7efde0a070c7"
+        "include/all$391d03c666ef99a8a155a771f763d045bfc001f4.json": {
+            "sha1": "391d03c666ef99a8a155a771f763d045bfc001f4"
         }
     },
     "metadata-url": "/drulibs/p2/%package%.json",
     "available-packages": [
+        "d-apvarun/toastify",
         "d-axios/axios",
         "d-c3js/c3",
         "d-chartjs/chartjs",
