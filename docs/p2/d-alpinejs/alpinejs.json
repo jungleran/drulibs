@@ -1,0 +1,16 @@
+{
+    "packages": {
+        "d-alpinejs/alpinejs": [
+            {
+                "name": "d-alpinejs/alpinejs",
+                "version": "3.11.1",
+                "version_normalized": "3.11.1.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://registry.npmjs.org/alpinejs/-/alpinejs-3.11.1.tgz"
+                },
+                "type": "drupal-library"
+            }
+        ]
+    }
+}

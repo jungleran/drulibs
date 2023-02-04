@@ -1,12 +1,13 @@
 {
     "packages": [],
     "includes": {
-        "include/all$391d03c666ef99a8a155a771f763d045bfc001f4.json": {
-            "sha1": "391d03c666ef99a8a155a771f763d045bfc001f4"
+        "include/all$413bc91b4d78eadfeb149b39eba65c94b659508f.json": {
+            "sha1": "413bc91b4d78eadfeb149b39eba65c94b659508f"
         }
     },
     "metadata-url": "/drulibs/p2/%package%.json",
     "available-packages": [
+        "d-alpinejs/alpinejs",
         "d-apvarun/toastify",
         "d-axios/axios",
         "d-c3js/c3",

@@ -560,6 +560,18 @@
           "type": "zip"
         }
       }
+    },
+    "alpinejs/alpinejs:3.11.1": {
+      "type": "package",
+      "package": {
+        "name": "d-alpinejs/alpinejs",
+        "type": "drupal-library",
+        "version": "3.11.1",
+        "dist": {
+          "url": "https://registry.npmjs.org/alpinejs/-/alpinejs-3.11.1.tgz",
+          "type": "tar"
+        }
+      }
     }
   },
   "require-all": true
