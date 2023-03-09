@@ -576,7 +576,7 @@
     "swagger-api/swagger-ui:3.0.17": {
       "type": "package",
       "package": {
-        "name": "d-swagger-api/swagger-ui",
+        "name": "d-swagger/swagger-ui",
         "type": "drupal-library",
         "version": "3.0.17",
         "dist": {

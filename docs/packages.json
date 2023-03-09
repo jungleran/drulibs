@@ -1,8 +1,8 @@
 {
     "packages": [],
     "includes": {
-        "include/all$8d5614ffdeda05e2a8581e2f9b432f37d0cc4480.json": {
-            "sha1": "8d5614ffdeda05e2a8581e2f9b432f37d0cc4480"
+        "include/all$1a170d1d58a7598fd35638442a2dc1a6899848d7.json": {
+            "sha1": "1a170d1d58a7598fd35638442a2dc1a6899848d7"
         }
     },
     "metadata-url": "/drulibs/p2/%package%.json",
@@ -41,7 +41,7 @@
         "d-owlcarousel2/owlcarousel2",
         "d-quilljs/quill",
         "d-select2/select2",
-        "d-swagger-api/swagger-ui",
+        "d-swagger/swagger-ui",
         "d-vue/pettie-vue",
         "d-vue/vue",
         "d-vue/vue-router",
